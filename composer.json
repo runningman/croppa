@@ -9,8 +9,11 @@
 		"illuminate/support": "4 - 5",
 		"illuminate/routing": "4 - 5",
 		"league/flysystem": "~1.0",
-		"symfony/http-foundation": "~2.0",
-		"symfony/http-kernel": "~2.0",
+
+        	"symfony/http-foundation": "2.8.*|3.0.*",
+	        "symfony/http-kernel": "2.8.*|3.0.*",
+
+
 		"weotch/PHPThumb": ">=1.0.5,<2"
 	},
 	"require-dev": {
